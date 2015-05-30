@@ -7,3 +7,6 @@ checkout = git clone 'git@github.com:katafractari/vcs.git' 'vcs'
 
 [.homesick/repos/vim]
 checkout = git clone 'git@github.com:katafractari/vim.git' 'vim'
+
+[.homesick/repos/helpers]
+checkout = git clone 'git@github.com:katafractari/helpers.git' 'helpers'
