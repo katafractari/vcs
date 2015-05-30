@@ -1,0 +1,9 @@
+
+[.homesick/repos/shell]
+checkout = git clone 'git@github.com:katafractari/shell.git' 'shell'
+
+[.homesick/repos/vcs]
+checkout = git clone 'git@github.com:katafractari/vcs.git' 'vcs'
+
+[.homesick/repos/vim]
+checkout = git clone 'git@github.com:katafractari/vim.git' 'vim'
