@@ -3,3 +3,5 @@
 	name = Rok Pergarec
 [push]
 	default = simple
+[core]
+	autocrlf = input
